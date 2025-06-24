@@ -79,9 +79,6 @@ FXFlow/
 
 `fintech` `swift` `swiftui` `p2p` `foreign-exchange` `mvp` `ios`
 
----
-
-*This MVP was developed for educational and demonstration purposes as part of a university FinTech course. For questions or collaboration, please contact the author.*
 
 ## Note
 
